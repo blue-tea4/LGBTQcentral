@@ -1,0 +1,98 @@
+*{
+  font-family: Anton;
+}
+
+
+
+/*Header styling*/
+
+.name {
+  background-color: #E53333;
+  padding: 50px;
+  margin: -10px;
+}
+
+.headerBannar {
+  margin-top: 0px;
+  font-family: Anton;
+  color: white;
+} 
+
+
+/*nav bar*/
+
+ul {
+  list-style-type: none;
+  margin: -10px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #E53333;
+}
+
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #E53333;
+}
+
+#red {
+  background-color: #E53333;
+}
+
+#orange {
+  background-color: #F46717;
+}
+
+#yellow {
+  background-color: #F3BA47;
+}
+
+#green {
+  background-color: #639766;
+}
+
+#blue {
+  background-color: #0B5E92;
+}
+
+#purple {
+  background-color: #7743A8;
+}
+
+
+/*Fact generator*/
+
+
+#factButton {
+  border: none;
+  background-color: #E53333;
+  padding: 10px;
+  margin-top: 20px;
+  color: white;
+} 
+
+#center {
+  text-align: center;
+}
+
+
+#defHead {
+  color: #F46717; 
+}
+
+.flags {
+  width: 290px;
+  height: auto;
+}
